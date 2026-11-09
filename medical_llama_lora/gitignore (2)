@@ -1,0 +1,17 @@
+# Training artifacts
+outputs/
+*.zip
+unsloth_compiled_cache/
+
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Secrets
+.env
